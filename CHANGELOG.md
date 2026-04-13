@@ -2,7 +2,7 @@ InfrastructureModels.jl Change Log
 ==================================
 
 ### Staged
-- nothing
+- Remove Memento and switch to Logging.jl (#99)
 
 ### v0.7.8
 - Fix support for strongly typed network data (#92)
